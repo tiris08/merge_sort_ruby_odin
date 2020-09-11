@@ -25,4 +25,3 @@ def merge_sort(arr)
   end
 end
 
-p merge_sort([4,1,8,2,1,3])
